@@ -1,0 +1,6 @@
+framework module Pods_FHXHUD_Tests {
+  umbrella header "Pods-FHXHUD_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

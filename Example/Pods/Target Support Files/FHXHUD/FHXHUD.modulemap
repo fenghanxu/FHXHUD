@@ -1,0 +1,6 @@
+framework module FHXHUD {
+  umbrella header "FHXHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXHUD_Example' do
+  pod 'FHXHUD', :path => '../'
+
+  target 'FHXHUD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
