@@ -43,6 +43,6 @@ s.requires_arc = true
 
 s.frameworks = 'UIKit','Foundation'
 
-s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3.2' }
+s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.1' }
 
 end
